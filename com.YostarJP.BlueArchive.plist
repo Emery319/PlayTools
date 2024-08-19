@@ -40,7 +40,7 @@
 	<key>noKMOnInput</key>
 	<true/>
 	<key>notch</key>
-	<false/>
+	<true/>
 	<key>playChain</key>
 	<true/>
 	<key>playChainDebugging</key>
